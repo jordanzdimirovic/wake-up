@@ -1,0 +1,11 @@
+{
+    "weekday": {
+        "time": "07:00",
+        "routine": "Standard Routine"
+    },
+
+    "weekend": {
+        "time": "10:00",
+        "routine": "Standard Routine"
+    }
+}

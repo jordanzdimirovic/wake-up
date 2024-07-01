@@ -1,0 +1,23 @@
+{
+    "routines": [
+        {
+            "name": "Standard Routine",
+            "actions": [
+                {
+                    "id": "tplink.switch_state",
+                    "params": {
+                        "switch_name": "Kettle",
+                        "switch_state": true
+                    }
+                },
+                {
+                    "id": "tplink.switch_state",
+                    "params": {
+                        "switch_name": "Kettle",
+                        "switch_state": false
+                    }
+                }
+            ]
+        }
+    ]
+}
